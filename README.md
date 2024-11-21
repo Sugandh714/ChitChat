@@ -15,3 +15,7 @@ Tech Stack
    Database: MongoDB# ChitChat
 ![Picture1](https://github.com/user-attachments/assets/b499cab4-d5fd-4230-9db6-207d6dda7294)
 ![image](https://github.com/user-attachments/assets/80668323-89bc-48d4-9265-b50a3234e27c)
+
+Install it to your system
+Clone the Repository
+
